@@ -1,6 +1,7 @@
 package com.alibaba.chaosblade.exec.plugin.feign;
 
 import junit.framework.TestCase;
+import org.junit.Test;
 
 /**
  * @author hengyu
@@ -10,5 +11,8 @@ import junit.framework.TestCase;
  * @description
  */
 public class FeignProducerEnhancerTest extends TestCase {
-
+    @Test
+    public void test(){
+        
+    }
 }
